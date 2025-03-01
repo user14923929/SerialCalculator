@@ -1,0 +1,19 @@
+# Serial Calculator
+
+This Arduino project allows you to perform basic arithmetic and trigonometric calculations via the Serial Monitor.
+
+## Features
+
+- Supports addition, subtraction, multiplication, and division.
+- Supports trigonometric functions: sine, cosine, and tangent.
+
+## Usage
+
+1. Upload the `SerialCalculator.ino` sketch to your Arduino board.
+2. Open the Serial Monitor from the Arduino IDE.
+3. Set the baud rate to 9600.
+4. Enter an expression in the following formats:
+    - Arithmetic: `5+3`, `10-2`, `4*7`, `8/2`
+    - Trigonometric: `sin(30)`, `cos(45)`, `tan(60)`
+
+## Example
