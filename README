@@ -6,6 +6,11 @@ This Arduino project allows you to perform basic arithmetic and trigonometric ca
 
 - Supports addition, subtraction, multiplication, and division.
 - Supports trigonometric functions: sine, cosine, and tangent.
+- Displays results on an LCD screen.
+- Handles division by zero and invalid input gracefully.
+
+- Supports addition, subtraction, multiplication, and division.
+- Supports trigonometric functions: sine, cosine, and tangent.
 
 ## Usage
 
